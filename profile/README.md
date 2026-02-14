@@ -84,16 +84,3 @@ https://github.com/SATR-ATM/ideas
 هذا العمل مفتوح المصدر وفق رخصة MIT:
 
 - https://github.com/SATR-ATM/.github/blob/main/LICENSE
-
----
-
-# 📌 Pinned Repositories
-
-- 🏠 elFulk-Project  
-  https://github.com/SATR-ATM/elFulk-Project
-
-- 👋 introduce-yourself  
-  https://github.com/SATR-ATM/introduce-yourself
-
-- 💡 ideas  
-  https://github.com/SATR-ATM/ideas
